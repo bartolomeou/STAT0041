@@ -1,0 +1,61 @@
+9.1 Introduction and Scope of Application
+1.	The Student Academic Integrity and Misconduct Procedure sets out how UCL will investigate and remedy any conduct which is considered to breach UCL's assessment regulations, and which is likely to give an unfair advantage to the candidate and/ or affect the security of assessments and/or affect the integrity of the degrees awarded by UCL.
+ 	Scope
+2.	These procedures apply to all current and former students of UCL, including: 
+ 	a)	Undergraduate students
+ 	b)	Postgraduate taught students
+ 	c)	Postgraduate research students
+3.	The procedures will not normally apply to UCL students studying modules at other institutions who will be subject to the Host institution's procedures. Investigation of alleged misconduct by students visiting from other institutions (such as intercollegiate or affiliate students) will be conducted by UCL, but the application of penalties will normally be handled by the Home institution. 
+4.	The Student Academic Integrity and Misconduct Procedure applies to summative assessments only. Examples of poor academic practice in formative assessments should be followed up by the module leader but will not be subject to formal penalty under this procedure.
+5.	Research Misconduct will be investigated under UCL's Procedure for Investigating and Resolving Allegations of Misconduct in Academic Research.
+ 	Guiding Principles
+6.	As outlined in Chapter 4, Section 2, module leaders are responsible for providing accurate and up-to-date information to students about their assessments. This includes information about appropriate referencing, clear instructions about collaborative working, and a link to these academic misconduct regulations. 
+7.	A student suspected of committing Academic Misconduct must be given the opportunity to respond to an allegation before a penalty is confirmed.
+8.	A student suspected of committing Academic Misconduct must always be directed to sources of advice and support, such as the Students' Union Advice service or Student Support and Wellbeing. 
+9.	A student invited to attend a panel meeting must always be informed of their right to bring a "friend" to provide moral support. In addition, the student must always be invited to inform the panel of any reasonable adjustments that will need to be made to enable them to fairly engage with the meeting.
+10.	In considering allegations of Academic Misconduct adjudicators should apply "on the balance of probabilities" as the standard of proof.
+11.	A decision about whether academic misconduct has occurred will not take mitigating factors, including extenuating circumstances, into account. 
+12.	 A decision about the appropriate penalty for a confirmed case of academic misconduct must take account of contributing and mitigating factors and should be informed by the relative impact on the individual student.
+13.	Where allegations of suspected Academic Misconduct are being investigated, Departments should, where possible, check all available summative work the student has submitted within the same assessment period.
+14.	Under no circumstances during any stage of the Academic Misconduct procedure will a student be granted an additional attempt at assessment beyond those normally permitted. However, they may be required to submit a new or revised version of the assessment as a formative exercise to evidence their understanding of academic integrity. 
+9.2 Definitions
+1.	References to the "Adjudicator" made throughout these regulations refer to the appropriate decision-making body outlined in the Adjudication Framework in Section 9.3.
+2.	Academic Integrity refers to all academic practice, by includes undertaking assessments honestly in a responsible manner and acknowledging other's ideas.
+3.	Poor Academic Practice refers to low level academic integrity infringements that are clearly judged to be a result of a lack of understanding on the part of the student, normally because of a lack of training in appropriate academic practice. Students will not normally be penalised for poor academic practice but should be supported to learn from their mistake. 
+4.	Material Irregularity refers to an error in the assessment process that has materially disadvantaged a student. Following investigation, it may become apparent that what was originally reported as misconduct was in fact the result of poor assessment design or preparation. In these instances, the material irregularity procedure may be used (Chapter 6, Section 6).
+5.	Academic Misconduct is defined as any action or attempted action that is intended to result in a student obtaining an unfair academic advantage. For the purposes of this procedure this includes, but will not necessarily be restricted to, the following:
+ 	a)	Plagiarism: defined as the representation of other people's work or ideas as the student's own without appropriate referencing or acknowledgement. This includes the use of Generative Artificial Intelligence (GenAI) tools that exceeds that permitted in the assessment brief. 
+ 	b)	Collusion: defined as the unauthorised collaboration by two or more students on any assessment.
+ 	c)	Any attempt to gain unauthorised access to the assessed coursework of any other candidate with or without the knowledge of the other candidate.
+ 	d)	Falsification: defined as the fraudulent creation, alteration or misrepresentation of data, or any other information, including visual or audio artefacts. This includes but is not limited to:
+ 	 	i.	falsification of word count. 
+ 	 	ii.	falsification of supporting evidence for an extenuating circumstances application.
+ 	 	iii.	use of GenAI tools to create false data sets or references.
+ 	e)	Contract Cheating: defined as commissioning a piece of assessment to be carried out by a third party or knowingly using a commissioned piece of assessment. Students should be aware that it is a criminal offence to advertise or provide Contract Cheating services, and UCL would normally report this to the Police.
+ 	f)	Impersonation (including attempted, solicited or attempts at soliciting impersonation) in any form of assessment.
+ 	g)	Examination Room Misconduct, including:
+ 	 	i.	The use or possession of unauthorised books, notes, software, electronic devices, paper, or other materials in an examination other than those permitted in Chapter 4, Part B: Student Regulations for Exams and Assessments.
+ 	 	ii.	The unauthorised marking or annotation of any materials authorised for use in an examination (such as the Candidate Card Printout), or writing notes on hands, or other parts of the body.
+ 	 	iii.	Reading or writing before the start of the examination (apart from student information on the answer book front cover and examination envelope) or writing after the one-minute allowance has passed.
+ 	 	iv.	The unauthorised removal of an examination script or stationery in any state from the examination room except by a person with the designated authority.
+ 	 	v.	Any attempt to confer with or gain access to the script of any other candidate during the period of the examination.
+ 	 	vi.	Any attempt to gain access to or tamper with examination envelopes, answer books, question papers or other examination stationery before or after submission.
+ 	 	vii.	Removing oneself from the examination room during the period of an examination without permission from a member of staff.
+ 	 	viii.	Causing a disturbance or disrupting the examination process.
+ 	h)	Online Assessment Misconduct, including:
+ 	 	i.	Any use of unauthorised material.
+ 	 	ii.	Any unauthorised communication or attempted communication with other students or third parties in relation to the assessment.
+ 	 	iii.	Discussion or sharing of assessment content with other students or third parties.
+ 	 	iv.	Unauthorised collaboration with other students or third parties.
+ 	 	v.	Copying or attempting to copy from another student's work.
+ 	 	vi	Any attempt to confer with or gain access to the script of any other candidate during the period of the assessment.
+ 	i)	Any other conduct that would give an unfair academic advantage to a student.
+6.	For the purposes of this procedure, the following will not be considered Academic Misconduct:
+ 	a)	Language and Writing review: defined as having a third-party or software check areas of academic writing such as structure, fluency, presentation, grammar, spelling, punctuation, and language translation. However, this may be considered Academic Misconduct if substantive changes to content have been made by the reviewer or software or at their recommendation, which would suggest that the reviewer had either produced or determined the substantive content of the submission, or, in cases of language translation, if the student is being assessed on their ability to translate or use a language other than English.
+ 	b)	File Sharing: defined as the sharing of files or data between two or more students as part of authorised collaboration. However, this may be considered Academic Misconduct if File Sharing occurs between students where collaboration is not authorised.
+ 	c)	Use of GenAI tools that does not exceed that permitted in the assessment brief: each module leader is responsible for informing students of the extent to which they are permitted to use GenAI tools in each assessment. Evidence of use where there has not been a clear direction from the module leader will not be penalised.
+9.3 Adjudication Framework
+1.	The following framework indicates who should adjudicate the offence being considered., based on its suspected severity
+ 
+2.	Academic Misconduct will be considered a second offence if a penalty has already been received for any prior offence which has taken place during the degree programme on which the student is registered.
+3.	"Component" in the framework below refers to a Component as defined in Chapter 7, Part A, Section 3.11: Components.     
